@@ -1,0 +1,62 @@
+
+# DO NOT DELETE
+
+./RunTreeInterface_C.so: ../src/TreeInterface.cxx ../include/TreeInterface.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TNamed.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TObject.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/Rtypes.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/RConfig.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/RVersion.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/DllImport.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/Rtypeinfo.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/snprintf.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/strlcpy.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TGenericClassInfo.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TSchemaHelper.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TStorage.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TVersionCheck.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/Riosfwd.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TBuffer.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TString.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TMathBase.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TFile.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TDirectoryFile.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TDirectory.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TList.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TSeqCollection.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TCollection.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TIterator.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TDatime.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TUUID.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TMap.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/THashTable.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TUrl.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TTree.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TBranch.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TObjArray.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TAttFill.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TDataType.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TDictionary.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/Property.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/ESTLType.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TAttLine.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TAttMarker.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TArrayD.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TArray.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TArrayI.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TClass.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TObjString.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/ThreadLocalStorage.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/RConfigure.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TVirtualTreePlayer.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TChain.h
+./RunTreeInterface_C.so: ../include/CentralityEventContainer.h
+./RunTreeInterface_C.so: ../include/CentralityDetectorEvent.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TSystem.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TInetAddress.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TTimer.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TSysEvtHandler.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TQObject.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/TTime.h
+./RunTreeInterface_C.so: /home/liza/root/buildedroot/include/cintdictversion.h /home/liza/root/buildedroot/include/RVersion.h
+RunTreeInterface_C__ROOTBUILDVERSION= 5.34/36
